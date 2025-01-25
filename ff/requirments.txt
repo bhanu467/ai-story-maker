@@ -1,0 +1,4 @@
+Flask==2.2.3
+transformers==4.32.1
+torch==2.0.1
+ultralytics==8.0.43
